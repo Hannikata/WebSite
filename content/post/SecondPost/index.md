@@ -225,5 +225,5 @@ Ensuite je vous encourage vivement & regarder les données sur le site gapmider 
 Je pense vous avoir extrait tous les points important de se livre, ainsi que les annecdotes les plus intéressantes. 
 Mais il reste une question, si les média ne nous donne pas une vision factuel du monde, comment l'obtenir et bien s'informer ? 
 
-## note, à mettre quelque part
+## note
 J'ai lu ce livre en version englaise, les extraits présent ici, ont été traduit et interprété en fonction de ma subjectivité. il ne s'agit pas d'une traduction litéral.
