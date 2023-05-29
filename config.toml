@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://hannikata.frama.io/WebSite/"
 languageCode = "en-us"
 title = "Résumée de livre"
 theme = "blackburn"

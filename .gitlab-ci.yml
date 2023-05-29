@@ -8,6 +8,6 @@ pages:
   - hugo
   artifacts:
     paths:
-    - https://hannikata.frama.io/WebSite/
+    - public
   rules:
   - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
