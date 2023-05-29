@@ -1,0 +1,6 @@
+#/bin/bash 
+
+for i in *.jpg 
+do 
+	convert {$i} -resize 700x300 700x300$i  
+done  
