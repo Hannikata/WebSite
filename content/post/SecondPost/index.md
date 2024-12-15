@@ -1,8 +1,8 @@
 ---
 author: "Moi"
 date: 2022-01-19
-linktitle: Mes deuxièmes modifications
-title: Mes deuxièmes modifications
+linktitle: Résumé du livre factfulness 
+title: Résumé du livre factfulness 
 weight: 10
 ---
 
@@ -26,10 +26,12 @@ Le livre commence avec un QCM sur l'état du monde. (Vous pouvez vous tester ici
 Ces questions auxquelles la plupart des gens répondent très mal sont la base de son livre et son constat: nous connaissons très mal les données du monde. Et de mauvais faits ne permettent pas de bonne action.
 
 <p align="center">
+  <a href="Factfulness.jpg">
   <img src="fact700_300.jpg"
 alt=""
 width="25%" 
 height="auto"/>
+  </a>
 </p>
 
 
@@ -39,10 +41,12 @@ L'auteur nous partage tout au long de ce livre trois points:
 * Ce n'est pas parce que le monde va mal qu'il ne va pas mieux qu'avant. 
 
 <p align="center">
-  <img src="700x300countries_health_wealth_2021.png"
-alt="graphique montrant l'espérance de vie en fonction du revenu pour chaque pays du monde"
-caption="graphique montrant l'espérance de vie en fonction du revenu pour chaque pays du monde (source: https://www.gapminder.org/tools/)"/>
+<a href="countries_health_wealth_2021.png">
+<img src="700x300countries_health_wealth_2021.jpg"
+alt="graphique montrant l'espérance de vie en fonction du revenu pour chaque pays du monde"/>
+</a>
 </p>
+
 
 <br>
 
@@ -64,28 +68,49 @@ Faignant de ne pas comprendre son élève l'auteur le titille et obtient différ
 <br>
 <br>
 
-Je vous laisse ci-dessous le texte original rempli d'humour [TODO: text p22]
+Je vous laisse ci-dessous le début du texte original rempli d'humour :
+<div style="background: #191818; padding: 10px;">
+
+      A young student in the first row raised his hand. He tilted his head and said, “They can never live like us.” All over the room other students nodded in support.
+      He probably thought I would be surprised. I was not at all. This was the same kind of “gap” statement I had heard many times before.
+      I wasn’t surprised, I was thrilled. This was what I had hoped for. Our dialogue went something like this:
+        me: Sorry, who do you mean when you say “they”?
+        him: I mean people in other countries.
+        me: All countries other than Sweden?
+        him: No. I mean . . . the non-Western countries. They can’t live like us. It won’t work.
+        me: Aha! (As if now I understood.) You mean like Japan?
+        him: No, not Japan. They have a Western lifestyle.
+        me: So what about Malaysia? They don’t have a “Western lifestyle,” right?
+        him: No. Malaysia is not Western. All countries that haven’t adopted the Western lifestyle yet. They shouldn’t. You know what I mean.
+        me: No, I don’t know what you mean. Please explain. You are talking about “the West” and “the rest.” Right?
+        him: Yes. Exactly.
+        me: Is Mexico . . . “West”?
+      He just looked at me.
+      I didn’t mean to pick on him, but I kept going, excited to see where this would take us.
+ 
+</div>
 
 À force de torture il obtient d'une élève une autre définition: << peut-être pouvons-nous diviser le monde en deux: les pays avec un taux de fécondité élevé et une forte mortalité d'un côté et ceux avec un taux de fécondité faible et une mortalité infantile faible. >> 
 
 Ces données nous donnent le graphique ci-dessous: 
 
 <p align="center">
-  <img src="développement_Développée.jpg"
+  <a href="dev.jpg">
+  <img src="700x300dev.jpg"
         alt="image pays développée en développement"/>
+  </a>
 </p>
-
-[TODO: graphique p25 (en développement/Développée)] 
 
 Cette figure, on est nombreux à l'avoir en tête. D'un côté, des pays en voie de développement, de l'autre des pays développés. Un gap entre les deux où très peu de pays sont présents. Par contre on se rend compte rapidement que ce graphique est vieux: la chine, le plus gros cercle, avec une moyenne de 6 enfants par femme, ça ne date pas d'aujourd'hui. 
 
 le graphique plus récent (2017) c'est celui-ci: 
 
 <p align="center">
-  <img src="développement_Développée_2017.jpg"
+  <a href="développement_Développée_2017.jpg">
+  <img src="700x300développement_Développée.jpg"
         alt="image pays développée en développement"/>
+  </a>
 </p>
-[TODO graphique p26]
 
 Pour être exact le précèdent graphique date de 1965. Une vision datée mais dont on entend très souvent les expressions consacrées: un monde séparé en deux où l'on peut opposer: dévoloppé/en développement, riche/pauvre. Ces expressions persistent, même chez de jeunes étudiants, alors qu'elles ne sont plus d'actualité. 
 
@@ -95,22 +120,28 @@ Le principe est simple:
 On divise le monde en 4 en fonction des revenus exponentiels. À chacun de ces niveaux est associé des photos qui illustrent le mode de vie. 
 
 <p align="center">
-  <img src="700x300lifeOnTheFourIncomeLevels.jpg"/>
+  <a href="lifeOnTheFourIncomeLevels.jpg">
+  <img src="700x300lifeOnTheFourIncomeLevels.jpg"
+        alt="vie dans les quatres niveau de vies"/>
+  </a>
 </p>
-
 
 Ces niveaux de vie sont mis en perspective avec l'espérance de vie des pays
 
 <p align="center">
-  <img src="700x300countries_health_wealth_2021.png"
-alt="graphique montrant l'espérance de vie en fonction du revenu pour chaque pays du monde"
+  <a href="countries_health_wealth_2021.png">
+  <img src="700x300countries_health_wealth_2021.jpg"
+alt="graphique montrant l'espérance de vie en fonction du revenu pour chaque pays du monde" 
 caption="graphique montrant l'espérance de vie en fonction du revenu pour chaque pays du monde (source: https://www.gapminder.org/tools/)"/>
+  </a>
 </p> 
 
 L'auteur montre la répartition dans le monde de la population et de ces niveaux de vie. Il se permet même de faire des projections dans le futur. 
 
 <p align="center">
+  <a href="Peoplebyregionandincome.jpg">
   <img src="700x300Peoplebyregionandincome.jpg"/>
+  </a>
 </p>
 
 les instincts à combattre: 
@@ -128,8 +159,10 @@ Selon l'auteur 10 instincts (ou plutôt biais cognitifs) sont à combattre:
 10. URGENCY: répondre dans l'urgence et faire quelque chose plutôt que de comprendre
 
 <p align="center">
+  <a href="factfulness-poster-web-images-20180215-v3_Rules-of-thumb.jpg">
   <img src="700x300factfulness-poster-web-images-20180215-v3_Rules-of-thumb.jpg"
 alt="factfulness-poster-web-images-20180215-v3_Rules-of-thumb"/>
+  </a>
 
 <br>
 <br> 
@@ -142,8 +175,12 @@ Ce livre est rempli d'anecdotes, souvent tirées de la propre expérience de l'a
 ### La Suède des années 1921 (Chapitre: NEGATIVITY)
 
 <p align="center">
-  <img src="700x300swedenInTime.jpg"/>
+<a href="swedenInTime.jpg">
+<img src="700x300swedenInTime.jpg">
+</a>
 </p>
+
+
 Ce graphique met en perspective l'espérance de vie et le revenu de la Suède au cours du temps, avec l'espérance de vie et le revenu de tous les pays du monde en 2017. 
 Cela permet de se rendre compte à quel point le monde a évolué ces dernières années et que la vie dans des pays "sous-développés" ressemble finalement à la vie qu'ont pu avoir nos parents ou grand-parents. L'auteur explique que sa grand-mère née en 1891, c'est un peu comme si elle était née en 2017 au Lesotho, un des deux seuls pays du monde à avoir une espérance de vie en dessous de 55 ans. 
 
@@ -156,7 +193,9 @@ Le médecin local est estomaqué: "Je n'avais jamais vu ça. Comment pouvez-vous
 ### Religion et taux de naissance (Chapitre: DESTINY)
 
 <p align="center">
-  <img src="900x500religion-1024x675.png"
+<a href="religion-1024x675.png">
+  <img src="900x500religion-1024x675.png">
+  </a>
 alt="religions et famille nombreuses"/>
 
 ### Peur (Chapitre: FEAR)
@@ -192,8 +231,10 @@ C'est pour cet état de fait qu'une jeune Iranienne a félicité l'auteur lors d
 Lorsqu'on regarde la carte des revenus et de l'espérance de vie on observe que l'Iran a une espérance de vie d'un peu plus de 78 ans quand l’Afghanistan en a une d'un peu moins de 65 ans. Le niveau de vie de l'Iran rentre dans le "niveau 3" quand celui de l’Afghanistan est en "niveau 1". 
 
 <p align="center">
+  <a href="Iran-Afganistan.png">
   <img src="700x300Iran-Afganistan.png"
-alt=""/>
+alt="Comparaison revenue Iran - Afganistan "/>
+  </a>
 </p>
 
 ### Enfant unique (Chapitre: BLAME)
@@ -201,8 +242,10 @@ alt=""/>
 La politique de l'enfant unique n'est pas ce qui a permis de diminuer drastiquement la natalité en Chine. Ce serait plutôt l'augmentation du niveau de vie qui en est la cause. Pour cela l'auteur avance le fait que Hongkong, auquel ne s'appliquait pas cette politique a eu une baisse encore plus forte de la natalité que la Chine sur les mêmes périodes. 
 
 <p align="center">
-  <img src="700x300Birth_rate_in_China_fr.png"
+<a href="Birth_rate_in_China_fr.jpg">
+  <img src="700x300Birth_rate_in_China_fr.jpg"
 alt="Taux de natallité en chine"/>
+</a>
 </p>
 
 La politique de l'enfant unique a durée de 1979 à 2015. Sur cette période la natalité Hongkongaise est passée de 2.12 à 1.20 et celle Chinoise de 2.72 à 1.67 soit une diminution légèrement plus faible. (source: https://datacommons.org)
@@ -244,7 +287,6 @@ Malgré tout ce que ce livre m'as appris j'ai quelques critique.
 ### La positivisté
 L'auteur veut dire que le monde va bien. Et il insiste **beaucoup** là dessus. 
 Outre le fait qu'on se demande pendant une majorité du livre où est passé l'écologie, il présente deux doubles pages de données sur 16 mauvaises choses qui diminuent et 16 bonnes choses qui s'améliorent qui "prouvent" que le monde va mieux. C'est doubles pages d'inepties, m'ont retenue de lire ce livre la première fois que je l'ai croisée. Ce catalogue de données voudrait montrer que tout va bien seulement car le nombre de particule fines émise diminue et le nombre nouveau film augmente. Avec comme élément positif le nombre d'espèce menacée surveillée. 
-L'écologie reste la grande absente de ce livre. 
 
 ### Les données
 La qualité des données utilisées pour réaliser est questionnable. 
@@ -264,4 +306,7 @@ Mais il reste une question, si les média ne nous donne pas une vision factuel d
 
 ## Note <a id="note"></a>
 J'ai lu ce livre en version anglaise, les extraits présent ici, ont été traduit et interprété en fonction de ma subjectivité. Il ne s'agit pas d'une traduction littéral.
+
+
+
 
