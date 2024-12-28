@@ -1,6 +1,6 @@
 baseurl = "https://github.com/Hannikata/WebSite"
 languageCode = "en-us"
-title = "Résumée de livre"
+title = "Mon blog"
 theme = "blackburn"
 author = "Yoshiharu Yamashita"
 copyright = "&copy; 2016. All rights reserved."
@@ -13,8 +13,8 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "des résumés en français"
-  brand = "Résumés"
+  subtitle = "mes articles de blog"
+  brand = "Mon blog"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
