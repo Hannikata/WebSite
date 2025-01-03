@@ -1,12 +1,12 @@
 ---
 author: "Moi"
 date: 2024-12-23
-linktitle: Résumé du livre le charme discré de l'intestin
-title: Résumé du livre le charme discré de l'intestin 
+linktitle: Résumé du livre le charme discret de l'intestin
+title: Résumé du livre le charme discret de l'intestin 
 weight: 10
 ---
 
-résumé du livre le charme discré de l'intestin - auteur : Giulia Enders
+résumé du livre le charme discret de l'intestin - auteur : Giulia Enders
 
 # Sommaire:
 
