@@ -17,6 +17,15 @@ It makes use of a variety of open source projects including:
 
 Learn more and contribute on [GitHub](https://github.com/spf13).
 
+## EcoIndex
+
+<a href="https://bff.ecoindex.fr/redirect/?url=https://hannikata.github.io/WebSite" target="_blank">
+    <img src="https://bff.ecoindex.fr/badge/?theme=white&url=https://hannikata.github.io/WebSite/" alt="Ecoindex Badge" />
+</a>
+
+
 ## Setup
 
 Thanks for reading!
+
+
