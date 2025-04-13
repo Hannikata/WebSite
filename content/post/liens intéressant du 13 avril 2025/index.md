@@ -23,9 +23,12 @@ détaille les données factuelles sur les ZFE:
 
 La conclusion résume bien l'ensemble de cette article : **Sortir des discours simplistes sur les ZFE**
 
+<br>
+
 ## Bilan energétique de la France
 https://www.statistiques.developpement-durable.gouv.fr/bilan-energetique-de-la-france-pour-2023-0
 
+<br>
 
 ## Recyclage de textiles
 https://infos.ademe.fr/magazine-avril-2025/recyclage-de-textiles-synthetiques-une-nouvelle-voie/
